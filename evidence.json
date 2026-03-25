@@ -4,102 +4,116 @@
     {
       "type": "github_repo",
       "title": "Scoutica Protocol",
-      "url": "https://github.com/rschumann/scoutica-protocol",
-      "description": "Open-source decentralized protocol for AI-agent-readable Skill Cards.",
+      "url": "https://github.com/traylinx/scoutica-protocol",
+      "description": "AI-readable professional profile protocol with deterministic fit scoring, candidate automation, privacy rules and recruiter/candidate workflow tooling.",
       "skills_demonstrated": [
         "Protocol Design",
         "JSON Schema",
         "CLI",
-        "Distributed Systems"
+        "Python",
+        "Agentic AI",
+        "AI Agents",
+        "AI Engineering",
+        "Pipelines"
       ]
     },
     {
       "type": "github_repo",
       "title": "switchAILocal",
       "url": "https://github.com/traylinx/switchAILocal",
-      "description": "Unified AI gateway bridging multiple LLM providers into an OpenAI-compatible server.",
+      "description": "Unified AI gateway with intelligent routing and load balancing across LLM providers and local/remote model backends.",
       "skills_demonstrated": [
         "Go",
         "AI Gateway",
-        "LLM Routing"
-      ]
-    },
-    {
-      "type": "website",
-      "title": "2md (Agentic Data Ingestion Engine)",
-      "url": "https://2md.traylinx.com",
-      "description": "High-fidelity HTML-to-Markdown conversion pipeline for AI agents.",
-      "skills_demonstrated": [
-        "Node.js",
-        "Puppeteer",
-        "Data Ingestion",
-        "RAG"
+        "LLM Routing",
+        "Model Routing",
+        "Large Language Models",
+        "LLM",
+        "GenAI",
+        "AI Services",
+        "OpenAI",
+        "Anthropic Claude",
+        "Gemini"
       ]
     },
     {
       "type": "github_repo",
       "title": "Traylinx Stargate",
       "url": "https://github.com/traylinx/traylinx-stargate",
-      "description": "P2P networking plugin for agent-to-agent communication.",
+      "description": "P2P networking plugin for agent-to-agent communication, service connectivity and secure distributed agent infrastructure.",
       "skills_demonstrated": [
+        "Python",
         "P2P",
         "NATS",
-        "libp2p",
-        "Zero-Trust"
+        "Zero-Trust",
+        "Agentic AI",
+        "AI Agents",
+        "A2A",
+        "A2A Protocol",
+        "Scalable Services"
       ]
     },
     {
       "type": "github_repo",
       "title": "A2A Ruby SDK",
       "url": "https://github.com/traylinx/a2a-ruby",
-      "description": "Ruby SDK for Google's Agent2Agent Protocol.",
+      "description": "SDK for Google's Agent2Agent Protocol with service-to-service interoperability primitives.",
       "skills_demonstrated": [
         "Ruby",
         "gRPC",
-        "A2A Protocol"
+        "OAuth 2.0",
+        "A2A Protocol",
+        "A2A",
+        "APIs"
+      ]
+    },
+    {
+      "type": "website",
+      "title": "2md - Agentic Data Ingestion",
+      "url": "https://2md.traylinx.com",
+      "description": "High-fidelity web/PDF/document ingestion into clean AI-readable Markdown for RAG and agent workflows.",
+      "skills_demonstrated": [
+        "Node.js",
+        "TypeScript",
+        "Puppeteer",
+        "Data Ingestion",
+        "Document Ingestion",
+        "RAG",
+        "RAG Pipelines",
+        "APIs",
+        "Pipelines"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "Lope",
+      "url": "https://github.com/traylinx/lope",
+      "description": "Multi-model validator ensemble for reviews, votes, deliberation, audits and quality gates in AI-assisted engineering workflows.",
+      "skills_demonstrated": [
+        "Python",
+        "Evaluation Loops",
+        "Guardrails",
+        "Structured Outputs",
+        "AI Agents",
+        "LLMOps",
+        "MLOps",
+        "Claude Code",
+        "OpenAI",
+        "Anthropic Claude"
       ]
     },
     {
       "type": "portfolio",
-      "title": "Interactive Portfolio",
+      "title": "Professional Portfolio",
       "url": "https://jevvellabs.com/cv.html",
-      "description": "Neo-brutalist interactive CV with 80s gaming aesthetic.",
+      "description": "Professional portfolio and resume hub for AI infrastructure, backend architecture and freelance delivery context.",
       "skills_demonstrated": [
-        "Frontend",
-        "UX/UI",
-        "React"
-      ]
-    },
-    {
-      "type": "github_repo",
-      "title": "Traylinx CLI",
-      "url": "https://github.com/traylinx/traylinx-cli",
-      "description": "CLI for managing AI agents with conversational interface.",
-      "skills_demonstrated": [
-        "Python",
-        "CLI",
-        "NLP"
-      ]
-    },
-    {
-      "type": "github_repo",
-      "title": "google-drive-intelligent-mcp",
-      "url": "https://github.com/traylinx/google-drive-intelligent-mcp",
-      "description": "Intelligent MCP server for Google Drive operations.",
-      "skills_demonstrated": [
-        "Node.js",
-        "MCP Protocol",
-        "Google API"
-      ]
-    },
-    {
-      "type": "video",
-      "title": "Audio CV Log",
-      "url": "https://youtu.be/SesFjz6gWOc",
-      "description": "Professional summary and technical approach audio bio.",
-      "skills_demonstrated": [
-        "Communication",
-        "Leadership"
+        "Backend Engineering",
+        "Cloud-native Architecture",
+        "Consulting",
+        "Requirements Analysis",
+        "Rollout Support",
+        "Professional Experience"
       ]
     }
   ]

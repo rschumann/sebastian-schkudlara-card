@@ -1,10 +1,10 @@
 schema_version: 0.1.0
 engagement:
   allowed_types:
-  - permanent
-  - contract
-  - fractional
-  - advisory
+    - permanent
+    - contract
+    - fractional
+    - advisory
   compensation:
     minimum_base_eur:
       permanent: negotiable
@@ -16,29 +16,40 @@ filters:
   blocked_industries: []
   stack_keywords:
     preferred:
-    - Agentic AI
-    - PydanticAI
-    - FastAPI
-    - Kubernetes
-    - RAG
-    - Microservices
-    - Python
-    - Ruby on Rails
-    - Distributed Systems
-    - A2A Protocol
+      - Python
+      - TypeScript
+      - Node.js
+      - Go
+      - FastAPI
+      - Kubernetes
+      - Agentic AI
+      - AI Agents
+      - Generative AI
+      - Large Language Models
+      - LLM
+      - RAG
+      - LangChain
+      - LangGraph
+      - MCP
+      - AWS Bedrock
+      - Cloud-native Architecture
+      - Backend Engineering
+      - Model Routing
+      - Evaluation Loops
+      - Guardrails
   soft_reject:
     weak_stack_overlap_below: 3
 privacy:
   zone_1_public:
-  - title
-  - seniority
-  - primary_domains
-  - availability
+    - title
+    - seniority
+    - primary_domains
+    - availability
   zone_2_paid:
-  - full_profile
-  - evidence
-  - experience_details
+    - full_profile
+    - evidence
+    - experience_details
   zone_3_private:
-  - email
-  - phone
-  - exact_salary
+    - email
+    - phone
+    - exact_salary

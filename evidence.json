@@ -1,0 +1,106 @@
+{
+  "schema_version": "0.1.0",
+  "items": [
+    {
+      "type": "github_repo",
+      "title": "Scoutica Protocol",
+      "url": "https://github.com/rschumann/scoutica-protocol",
+      "description": "Open-source decentralized protocol for AI-agent-readable Skill Cards.",
+      "skills_demonstrated": [
+        "Protocol Design",
+        "JSON Schema",
+        "CLI",
+        "Distributed Systems"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "switchAILocal",
+      "url": "https://github.com/traylinx/switchAILocal",
+      "description": "Unified AI gateway bridging multiple LLM providers into an OpenAI-compatible server.",
+      "skills_demonstrated": [
+        "Go",
+        "AI Gateway",
+        "LLM Routing"
+      ]
+    },
+    {
+      "type": "website",
+      "title": "2md (Agentic Data Ingestion Engine)",
+      "url": "https://2md.traylinx.com",
+      "description": "High-fidelity HTML-to-Markdown conversion pipeline for AI agents.",
+      "skills_demonstrated": [
+        "Node.js",
+        "Puppeteer",
+        "Data Ingestion",
+        "RAG"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "Traylinx Stargate",
+      "url": "https://github.com/traylinx/traylinx-stargate",
+      "description": "P2P networking plugin for agent-to-agent communication.",
+      "skills_demonstrated": [
+        "P2P",
+        "NATS",
+        "libp2p",
+        "Zero-Trust"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "A2A Ruby SDK",
+      "url": "https://github.com/traylinx/a2a-ruby",
+      "description": "Ruby SDK for Google's Agent2Agent Protocol.",
+      "skills_demonstrated": [
+        "Ruby",
+        "gRPC",
+        "A2A Protocol"
+      ]
+    },
+    {
+      "type": "portfolio",
+      "title": "Interactive Portfolio",
+      "url": "https://jevvellabs.com/cv.html",
+      "description": "Neo-brutalist interactive CV with 80s gaming aesthetic.",
+      "skills_demonstrated": [
+        "Frontend",
+        "UX/UI",
+        "React"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "Traylinx CLI",
+      "url": "https://github.com/traylinx/traylinx-cli",
+      "description": "CLI for managing AI agents with conversational interface.",
+      "skills_demonstrated": [
+        "Python",
+        "CLI",
+        "NLP"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "google-drive-intelligent-mcp",
+      "url": "https://github.com/traylinx/google-drive-intelligent-mcp",
+      "description": "Intelligent MCP server for Google Drive operations.",
+      "skills_demonstrated": [
+        "Node.js",
+        "MCP Protocol",
+        "Google API"
+      ]
+    },
+    {
+      "type": "video",
+      "title": "Audio CV Log",
+      "url": "https://youtu.be/SesFjz6gWOc",
+      "description": "Professional summary and technical approach audio bio.",
+      "skills_demonstrated": [
+        "Communication",
+        "Leadership"
+      ]
+    }
+  ]
+}

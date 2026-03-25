@@ -1,0 +1,73 @@
+{
+  "schema_version": "0.1.0",
+  "items": [
+    {
+      "type": "github_repo",
+      "title": "Scoutica Protocol",
+      "url": "https://github.com/rschumann/scoutica-protocol",
+      "description": "Open-source decentralized protocol replacing CVs with AI-agent-readable Skill Cards.",
+      "skills_demonstrated": [
+        "Protocol Design",
+        "JSON Schema",
+        "CLI",
+        "Agentic AI"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "switchAILocal",
+      "url": "https://github.com/traylinx/switchAILocal",
+      "description": "Unified AI gateway bridging multiple LLM providers into an OpenAI-compatible server.",
+      "skills_demonstrated": [
+        "Go",
+        "AI Gateway",
+        "LLM Routing"
+      ]
+    },
+    {
+      "type": "website",
+      "title": "2md (Agentic Data Ingestion Engine)",
+      "url": "https://2md.traylinx.com",
+      "description": "High-fidelity HTML-to-Markdown conversion pipeline for AI agents.",
+      "skills_demonstrated": [
+        "Node.js",
+        "Puppeteer",
+        "Data Ingestion"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "Traylinx Stargate",
+      "url": "https://github.com/traylinx/traylinx-stargate",
+      "description": "P2P networking plugin for agent-to-agent communication.",
+      "skills_demonstrated": [
+        "Python",
+        "P2P",
+        "NATS",
+        "libp2p",
+        "Zero-Trust"
+      ]
+    },
+    {
+      "type": "github_repo",
+      "title": "A2A Ruby SDK",
+      "url": "https://github.com/traylinx/a2a-ruby",
+      "description": "Ruby SDK for Google's Agent2Agent (A2A) Protocol.",
+      "skills_demonstrated": [
+        "Ruby",
+        "gRPC",
+        "OAuth 2.0"
+      ]
+    },
+    {
+      "type": "portfolio",
+      "title": "Interactive Portfolio",
+      "url": "https://jevvellabs.com/cv.html",
+      "description": "80s retro-styled interactive professional portfolio.",
+      "skills_demonstrated": [
+        "Frontend",
+        "UI/UX"
+      ]
+    }
+  ]
+}

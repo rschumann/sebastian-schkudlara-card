@@ -1,0 +1,82 @@
+{
+  "schema_version": "0.1.0",
+  "name": "Sebastian Schkudlara",
+  "title": "AI & Microservices Architect",
+  "seniority": "lead",
+  "years_experience": 19,
+  "availability": "immediately",
+  "primary_domains": [
+    "Agentic AI",
+    "Microservices",
+    "Backend Engineering"
+  ],
+  "skills": [
+    "Python",
+    "Ruby on Rails",
+    "FastAPI",
+    "Agentic AI Architecture",
+    "Multi-Agent Orchestration",
+    "RAG Pipelines",
+    "LangChain",
+    "PydanticAI",
+    "Tool Calling & Routing",
+    "MCP",
+    "Prompt Engineering",
+    "Vector DBs",
+    "pgvector",
+    "PostgreSQL",
+    "Redis",
+    "TypeScript",
+    "Node.js",
+    "React",
+    "Kafka",
+    "RabbitMQ",
+    "Event-Driven Architecture",
+    "OAuth 2.0",
+    "gRPC",
+    "JSON-RPC"
+  ],
+  "tools_and_platforms": [
+    "Kubernetes",
+    "Docker",
+    "AWS",
+    "GCP",
+    "Terraform",
+    "Ansible",
+    "GitHub Actions",
+    "Prometheus",
+    "Grafana",
+    "MongoDB",
+    "Neo4j",
+    "Elasticsearch",
+    "Ollama",
+    "Puppeteer"
+  ],
+  "certifications_and_licenses": [],
+  "specializations": [
+    "Agentic Infrastructure",
+    "Decentralized Protocols",
+    "P2P Agent Networks",
+    "High-Security Auth Systems"
+  ],
+  "spoken_languages": [
+    {
+      "language": "German",
+      "level": "native"
+    },
+    {
+      "language": "Polish",
+      "level": "native"
+    },
+    {
+      "language": "English",
+      "level": "fluent"
+    },
+    {
+      "language": "Spanish",
+      "level": "fluent"
+    }
+  ],
+  "education": "TU Berlin",
+  "summary": "Senior Backend Architect and Agentic AI Infrastructure specialist with 19+ years of experience building distributed systems. Expert in designing autonomous AI agent protocols, routing proxies, P2P networks, and scalable RAG pipelines for production environments."
+}

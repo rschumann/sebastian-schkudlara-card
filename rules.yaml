@@ -1,0 +1,44 @@
+schema_version: 0.1.0
+engagement:
+  allowed_types:
+  - permanent
+  - contract
+  - fractional
+  - advisory
+  compensation:
+    minimum_base_eur:
+      permanent: negotiable
+      contract: negotiable
+remote:
+  policy: remote_only
+  hybrid_locations: []
+filters:
+  blocked_industries: []
+  stack_keywords:
+    preferred:
+    - Python
+    - FastAPI
+    - Ruby on Rails
+    - Agentic AI
+    - RAG
+    - Kubernetes
+    - AWS
+    - PydanticAI
+    - LangChain
+    - Microservices
+  soft_reject:
+    weak_stack_overlap_below: 3
+privacy:
+  zone_1_public:
+  - title
+  - seniority
+  - primary_domains
+  - availability
+  zone_2_paid:
+  - full_profile
+  - evidence
+  - experience_details
+  zone_3_private:
+  - email
+  - phone
+  - exact_salary
